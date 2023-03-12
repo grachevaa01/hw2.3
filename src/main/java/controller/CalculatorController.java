@@ -1,4 +1,4 @@
-package com.skypro.calculator.controller;
+package controller;
 
 import org.springframework.http.RequestEntity;
 import org.springframework.http.ResponseEntity;
